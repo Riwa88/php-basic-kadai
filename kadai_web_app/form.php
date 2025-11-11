@@ -23,10 +23,10 @@
                 </td>
             </tr>
             <tr>
-                <td>開発部署</td>
+                <td>所属部署</td>
                 <td>
                     <select name="department">
-                        <option value="開発部" checked>開発部</option>
+                        <option value="開発部">開発部</option>
                         <option value="営業部">営業部</option>
                         <option value="人事部">人事部</option>
                     </select>
